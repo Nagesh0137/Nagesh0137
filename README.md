@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nagesh0137
 - 👀 I’m interested in coding,progarming.
-- 🌱 I’m currently learning full stack developer.
+- 🌱 I’m currently learning Full stack development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
