@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nagesh Sonawane</h1>
-<h3 align="center">A passionate front-end React developer from India</h3>
+<h3 align="center">A passionate full Stack developer from India</h3>
 
 - 👍 I’m currently completing Project [News Portal](http://ec2-18-207-168-121.compute-1.amazonaws.com:5000/)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Next.js and Python**
 
 - 👨‍💻 All of my projects are available at [https://nagesh0137.github.io/Nagesh-Portfolio/](https://nagesh0137.github.io/Nagesh-Portfolio/)
 
-- 💬 Ask me about **React.js**
+- 💬 Ask me about **React.js Or PHP**
 
 - 📫 How to reach me **nageshsonawane870@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mTfMzyKNAYCvQDFV7sSg-Zt86TpKqhiU/view?usp=drive_link](https://drive.google.com/file/d/1mTfMzyKNAYCvQDFV7sSg-Zt86TpKqhiU/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1mTfMzyKNAYCvQDFV7sSg-Zt86TpKqhiU/view?usp=drive_link](https://drive.google.com/file/d/1SPbFC0PO92C_Seo9wdt8tVFEwa5Lea3K/view?usp=sharing)]
 
 - ⚡ Fun fact **I think I'm leader**
 
