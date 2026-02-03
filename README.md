@@ -1,25 +1,73 @@
 <h1 align="center">Hi 👋, I'm Nagesh Sonawane</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">Full Stack Developer (MERN & AI) | Building Scalable Web Apps</h3>
 
-- 👍 I’m currently completing Project [News Portal](http://ec2-18-207-168-121.compute-1.amazonaws.com:5000/)
-
-- 🌱 I’m currently learning **Next.js and Python**
-
-- 👨‍💻 All of my projects are available at [https://nagesh0137.github.io/Nagesh-Portfolio/](https://nagesh0137.github.io/Nagesh-Portfolio/)
-
-- 💬 Ask me about **React.js Or PHP**
-
-- 📫 How to reach me **nageshsonawane870@gmail.com**
-
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1mTfMzyKNAYCvQDFV7sSg-Zt86TpKqhiU/view?usp=drive_link](https://drive.google.com/file/d/1SPbFC0PO92C_Seo9wdt8tVFEwa5Lea3K/view?usp=sharing)]
-
-- ⚡ Fun fact **I think I'm leader**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nagesh-sonawane/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nagesh-sonawane/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nagesh_sonawane013_7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nagesh_sonawane013_7/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://nageshsonawane.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nagesh-sonawane/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:nageshsonawane870@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 Who Am I?
+
+💡 **Full Stack Developer (MERN & AI)** with **2+ years of experience**  
+🏗️ Building **secure, scalable, real-world applications**  
+🧠 Strong in **system design, APIs, authentication & performance**  
+🚀 Passionate about **AI, modern frameworks & clean architecture**
+
+---
+
+## 🔥 What I Work With
+
+**Frontend**
+- React.js, Redux, Next.js  
+- Tailwind CSS, Bootstrap  
+
+**Backend**
+- Node.js, Express.js  
+- PHP (Laravel, CodeIgniter)  
+
+**Database**
+- MongoDB, MySQL, PostgreSQL  
+
+**Tools**
+- Git, Docker, Postman  
+- AWS (Basic), CI/CD  
+- AI Tools & Agentic AI  
+
+---
+
+## 🚀 Featured Work
+
+✔️ **Government Project (WCD)** – AI-based OCR Verification  
+✔️ **Quick-Commerce Platform** – Multi-vendor medicines & grocery  
+✔️ **Multi-Vendor E-Commerce System**  
+✔️ **VIP Mobile Numbers Platform**
+
+👉 **See live demos & case studies:**  
+🌐 **https://nageshsonawane.me/**
+
+---
+
+## 🎯 Currently
+
+- 🔭 Working as **MERN + AI Developer**
+- 🌱 Learning **Advanced Next.js & Python**
+- 💬 Ask me about **React, MERN, APIs, PHP**
+
+---
+
+## ⚡ Fun Fact
+
+🧭 *Leadership is taking ownership — even when no one asks.*
+
+---
+
+⭐ **Like my work? Star my repositories and let’s connect!**
